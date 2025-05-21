@@ -1,0 +1,7 @@
+admin:
+fbnm8829@gmail.com
+fares12345
+
+commercial:
+it@gmail.com
+itpassword
